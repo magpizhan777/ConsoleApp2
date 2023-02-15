@@ -11,6 +11,10 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+            Console.WriteLine("hello world");
+            Console.WriteLine("hello world");
+            Console.WriteLine("hello world");
+            Console.WriteLine("hello world");
             Console.ReadLine();
 
 
